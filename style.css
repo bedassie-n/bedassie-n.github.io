@@ -1,4 +1,5 @@
 /*Written by Nathaniel Bedassie, Jamaica, UWI, Mona*/
+
 *{
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -27,6 +28,7 @@
     50%{background-position:100% 50%}
     100%{background-position:0% 50%}
 }
+
 
 body{
     flex-flow: column;
@@ -108,10 +110,19 @@ body{
     font-size: xx-large;
     justify-content: center;
     align-items: center;
+    transition: display 2s position 2s transform 2s;
 }
 
 #navigator{
-
+    display: none;
+    position: relative;
+    margin: auto;
+    flex-direction: column;
+    color: azure;
+    font-size: xx-large;
+    justify-content: center;
+    align-items: center;
+    transition: display 2s position 2s transform 2s;
 }
 
 #personal-info{
