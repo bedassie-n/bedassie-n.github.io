@@ -5,6 +5,6 @@ var initiator = document.getElementById("initiator");
 
 yes_button.onclick = function(){
     initiator.style.display = "none";
-    navigation.style.display = "block";
+    navigation.style.display = "flex";
     console.log("Did it work?");
 }

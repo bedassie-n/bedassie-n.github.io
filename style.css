@@ -30,15 +30,19 @@
 }
 
 
-body{
+html, body{
+    display: flex;
     flex-flow: column;
     justify-content: flex-start;
+    align-items: center;
     width: 100%;
     height: 100%;
+    overflow: hidden;
 }
 
 .container-flex{
     display: flex;
+    width: 100%;
 }
 
 .initiator-button-grid{
@@ -110,13 +114,12 @@ body{
     font-size: xx-large;
     justify-content: center;
     align-items: center;
+    align-self: flex-end;
     transition: display 2s position 2s transform 2s;
 }
 
 #navigator{
     display: none;
-    position: relative;
-    margin: auto;
     flex-direction: column;
     color: azure;
     font-size: xx-large;
@@ -134,4 +137,9 @@ body{
     width: 191px;
     height: 172px;
     box-shadow: inset;
+}
+
+.no-side-touch{
+    margin-left: 3%;
+    margin-right: 3%;
 }
