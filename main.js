@@ -3,8 +3,10 @@ var no_button = document.getElementById("initiator-no-button");
 var navigation = document.getElementById("navigator");
 var initiator = document.getElementById("initiator");
 
+initiator.classList.add("slidingon")
+
 yes_button.onclick = function(){
-    initiator.style.display = "none";
-    navigation.style.display = "flex";
+    navigation.classList.add("slidingon")
+    initiator.classList.add("slidingoff");
     console.log("Did it work?");
 }
