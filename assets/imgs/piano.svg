@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m206,142l222.00001,0l0,215.999996l-222.00001,0c0,-71.999995 0,-145.004652 0,-215.999996z" fill="#000000" id="svg_1" stroke="#000000" stroke-linejoin="round" stroke-width="23"/>
+  <rect fill="#ffffff" height="203.999993" id="svg_17" stroke="#ffffff" stroke-linejoin="round" stroke-width="4" width="221.999998" x="205" y="159.000009"/>
+  <rect fill="#000000" height="18" id="svg_5" stroke="#000000" stroke-linejoin="round" stroke-width="4" width="222.000031" x="204.999994" y="138"/>
+  <rect fill="#000000" height="122.000002" id="svg_8" stroke="#000000" stroke-linejoin="round" stroke-width="4" width="31.000002" x="227" y="154"/>
+  <rect fill="#000000" height="122.000002" id="svg_11" stroke="#000000" stroke-linejoin="round" stroke-width="4" width="31.000002" x="303.5" y="154.5"/>
+  <rect fill="#000000" height="122.000002" id="svg_12" stroke="#000000" stroke-linejoin="round" stroke-width="4" width="31.000002" x="378.5" y="154.5"/>
+  <rect fill="#000000" height="91.999999" id="svg_13" stroke="#000000" stroke-linejoin="round" stroke-width="4" width="1" x="243" y="273"/>
+  <rect fill="#000000" height="90.000004" id="svg_14" stroke="#000000" stroke-linejoin="round" stroke-width="4" width="1" x="320" y="274.999993"/>
+  <rect fill="#000000" height="90" id="svg_16" stroke="#000000" stroke-linejoin="round" stroke-width="4" width="1" x="395.5" y="274.999993"/>
+ </g>
+</svg>
