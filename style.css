@@ -181,3 +181,23 @@ main{
     margin-left: 3%;
     margin-right: 3%;
 }
+
+.pallet{
+    display: grid;
+    grid-template: 1fr / 1fr 1fr 1fr;
+}
+
+.palletItem{
+    border-radius: 5%;
+    margin: 1em;
+    text-align: center;
+    background: rgba(184, 184, 184, 0.5);
+    box-shadow: 2px 2px 3px rgba(184, 184, 184, 0.5);
+    transition: .1s;
+}
+
+.palletItem:hover {
+    cursor: pointer;
+    background-color: rgba(184, 184, 184, 1);
+    transition: .5s;
+}
